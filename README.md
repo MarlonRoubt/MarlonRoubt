@@ -1,4 +1,4 @@
-Olá! Eu sou Marlon Roubt e estou migrando de carreira e atrás da primeira vaga.👋
+Olá! Me chamo Marlon Roubt, estou migrando de carreira e atrás da primeira vaga.👋
 
 - 🌱 Estudando HTML, CSS E JS.
 ##
