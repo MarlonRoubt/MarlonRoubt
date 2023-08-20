@@ -1,4 +1,5 @@
 Olá! Me chamo Marlon Roubt, estou migrando de carreira e atrás da primeira vaga.👋
+- contate-me em: roubtdev@gmail.com
 
 - 🌱 Estudando HTML | CSS | JS | ANGULAR | JAVA
 ##
