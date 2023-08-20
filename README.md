@@ -1,6 +1,6 @@
 Olá! Me chamo Marlon Roubt, estou migrando de carreira e atrás da primeira vaga.👋
 
-- 🌱 Estudando HTML, CSS E JS.
+- 🌱 Estudando HTML | CSS | JS | ANGULAR | JAVA
 ##
  <div>
    <header>
