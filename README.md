@@ -2,6 +2,12 @@ Olá! Me chamo Marlon Roubt, estou migrando de carreira e atrás da primeira vag
 
 - 🌱 Estudando HTML | CSS | JS | ANGULAR | JAVA
 ##
+<style>
+ div {
+   display: flex;
+   justify-content: space-around;
+ }
+</style>
  <div>
    <header>
        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
